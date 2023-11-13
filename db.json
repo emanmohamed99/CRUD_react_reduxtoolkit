@@ -1,0 +1,71 @@
+{
+  "users": [
+    {
+      "email": "olivier@mail.com",
+      "password": "$2a$10$J4B06WMmdFT76.mGfKWNfOxWrFxJHUZ3523MvIOdsPaExC.YVZb3S",
+      "id": 1
+    },
+    {
+      "email": "eman@mail.com",
+      "password": "$2a$10$IGIoCttfoDCRvjoHh2qA2OoguiBXfn25v3hhR3NMMX11.wMQAlXq2",
+      "id": 2
+    },
+    {
+      "email": "test@test.com",
+      "password": "$2a$10$yn35uxWQlGwV/lXL7JsUuOOp87VeHuHY7O2xc09.ft/bULsJyWvmW",
+      "id": 3
+    },
+    {
+      "email": "eman1@gg.com",
+      "password": "$2a$10$xEBp8KRx3/a/WZy8KTLtbez4Y3//5s8ZMSUASLlJjBqEtd3PDKQ.a",
+      "id": 4
+    },
+    {
+      "email": "eman14@gg.com",
+      "password": "$2a$10$ryyyLhKBMBZ1sFL5fomWmOLuShN44yMipJuRgIGLAJXQgppuNUgMG",
+      "id": 5
+    },
+    {
+      "email": "test2@test.com",
+      "password": "$2a$10$t.EgozOK2BqvDG51hzE7eOCwLQc/Sp5H.OHUZRZZwQMs/dJNWQ2Eq",
+      "id": 6
+    },
+    {
+      "email": "test3@test.com",
+      "password": "$2a$10$AZOgSA7sknRs7kszWYHCl.addkKu0jeFmkSnmdJ78iQ.AFj0WNXw.",
+      "id": 7
+    },
+    {
+      "email": "test466@test",
+      "password": "$2a$10$Kzg7Q0PMId6IAfxA7ztHSOUJOre27uBA1R7TulfTCxB2pkQcUlz/2",
+      "id": 8
+    },
+    {
+      "email": "emy@gmail.com",
+      "password": "$2a$10$CJYhPh3YaiL2BFnaBlmf2ufuJIzDZFOJRXi9xO3v3LwZN5RXtZ/nO",
+      "id": 9
+    },
+    {
+      "email": "eman@gg.com",
+      "password": "$2a$10$uuOZPrIsGoiZg5iaBp6eOuL/9TEQcYzRD577ZNqJhJuNC9tWiNtlC",
+      "id": 10
+    }
+  ],
+  "posts": [
+    {
+      "id": 356,
+      "title": "emymohamedd",
+      "description": "ss",
+      "item": {
+        "id": 356,
+        "title": "emanmzz",
+        "description": "ss"
+      }
+    },
+    {
+      "id": 113,
+      "title": "emyz",
+      "description": "wwwww"
+    }
+  ]
+}
